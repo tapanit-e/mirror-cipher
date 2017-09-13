@@ -56,7 +56,7 @@ var Crypto = (function() {
 		
 		}
 	
-		return ret.join('')
+		return ret.join('');
 	
 	};
 	
@@ -76,7 +76,7 @@ var Crypto = (function() {
 		
 		}
 	
-		return ret.join('')
+		return ret.join('');
 	
 	};
 	
